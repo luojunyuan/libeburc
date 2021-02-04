@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libeburc", "libeburc.vcxproj", "{CC217642-F7F5-4BDB-B4A2-ED6628466212}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC217642-F7F5-4BDB-B4A2-ED6628466212}.Debug|ARM.ActiveCfg = Debug|ARM
+		{CC217642-F7F5-4BDB-B4A2-ED6628466212}.Debug|ARM.Build.0 = Debug|ARM
+		{CC217642-F7F5-4BDB-B4A2-ED6628466212}.Debug|x64.ActiveCfg = Debug|x64
+		{CC217642-F7F5-4BDB-B4A2-ED6628466212}.Debug|x64.Build.0 = Debug|x64
+		{CC217642-F7F5-4BDB-B4A2-ED6628466212}.Debug|x86.ActiveCfg = Debug|Win32
+		{CC217642-F7F5-4BDB-B4A2-ED6628466212}.Debug|x86.Build.0 = Debug|Win32
+		{CC217642-F7F5-4BDB-B4A2-ED6628466212}.Release|ARM.ActiveCfg = Release|ARM
+		{CC217642-F7F5-4BDB-B4A2-ED6628466212}.Release|ARM.Build.0 = Release|ARM
+		{CC217642-F7F5-4BDB-B4A2-ED6628466212}.Release|x64.ActiveCfg = Release|x64
+		{CC217642-F7F5-4BDB-B4A2-ED6628466212}.Release|x64.Build.0 = Release|x64
+		{CC217642-F7F5-4BDB-B4A2-ED6628466212}.Release|x86.ActiveCfg = Release|Win32
+		{CC217642-F7F5-4BDB-B4A2-ED6628466212}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE0BDF59-9223-413B-BD2D-77EE1058DA74}
+	EndGlobalSection
+EndGlobal
